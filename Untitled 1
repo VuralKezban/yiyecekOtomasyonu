@@ -1,0 +1,18 @@
+		/*projemizin adý YIYECEK OTOMATI
+--15 adet ürün ve bu ürünlerin fiyatlarýný belirleyiniz. 
+Bu ürünler ekranda listelensin
+--Ürün seçip, para miktarý giriniz
+
+--girdiðiniz para fazla ise üstünü versin, 
+eksik ise ekleme yapmanýzý istesin
+
+--Ek ürün seçme seçeneði olsun, siz devam ettiðiniz sürece, 
+para kontrolünü de yaparak iþlem yapmaya devam etsin...
+NOT: Otomat sadece 1 tl , 5 tl, 10 tl, 20 tl miktarlarýný kabul etsin
+oop concepte ait öðrendiklerimizi kullanmaya çalýþalým...
+iyi çalýþmalar
+Kolay gelsin...
+1- ne istedigini sor
+2- fiyatini hesabla
+3- parasini al
+4- cikis*/
